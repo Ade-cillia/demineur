@@ -1,0 +1,11 @@
+Le but de démineurs est plus simple que ce qu'il en parait.
+
+Il suffit de révéler toutes les case en fesant un clique gauche dessus,
+toute en ayant signaler toutes les bombe à laide d'un clique droit.
+
+Une case blanche indique qu'il n'y a aucune bombe autour,
+par conséquent,toutes les case vide autour sont révéler automatiquement.
+
+Une case contenant un numéro indique son nombre de bombe dans les 8 case autour d'elle.
+
+
